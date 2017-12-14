@@ -11,3 +11,5 @@ const curry = function(fn) {
   }
   return partial();
 };
+
+export default curry;
